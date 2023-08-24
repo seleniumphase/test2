@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-10T12:26:11 IST" name="Suite" finished-at="2023-08-10T12:26:34 IST" duration-ms="22945">
+    <groups>
+    </groups>
+    <test started-at="2023-08-10T12:26:11 IST" name="Test-2" finished-at="2023-08-10T12:26:26 IST" duration-ms="15029">
+      <class name="browserstacktest.Cloud">
+        <test-method signature="testsite()[pri:0, instance:browserstacktest.Cloud@35835e65]" started-at="2023-08-10T12:26:11 IST" name="testsite" finished-at="2023-08-10T12:26:25 IST" duration-ms="13487" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testsite -->
+      </class> <!-- browserstacktest.Cloud -->
+    </test> <!-- Test-2 -->
+    <test started-at="2023-08-10T12:26:11 IST" name="Test-0" finished-at="2023-08-10T12:26:27 IST" duration-ms="15318">
+      <class name="browserstacktest.Cloud">
+        <test-method signature="testsite()[pri:0, instance:browserstacktest.Cloud@1f966492]" started-at="2023-08-10T12:26:11 IST" name="testsite" finished-at="2023-08-10T12:26:25 IST" duration-ms="13769" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testsite -->
+      </class> <!-- browserstacktest.Cloud -->
+    </test> <!-- Test-0 -->
+    <test started-at="2023-08-10T12:26:11 IST" name="Test-1" finished-at="2023-08-10T12:26:34 IST" duration-ms="22945">
+      <class name="browserstacktest.Cloud">
+        <test-method signature="testsite()[pri:0, instance:browserstacktest.Cloud@7144655b]" started-at="2023-08-10T12:26:11 IST" name="testsite" finished-at="2023-08-10T12:26:33 IST" duration-ms="21351" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testsite -->
+      </class> <!-- browserstacktest.Cloud -->
+    </test> <!-- Test-1 -->
+  </suite> <!-- Suite -->
+</testng-results>
