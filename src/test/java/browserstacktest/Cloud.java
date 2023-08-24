@@ -16,6 +16,7 @@ public class Cloud {
 		MutableCapabilities cap = new MutableCapabilities();
 		WebDriver driver = new RemoteWebDriver(new URL("https:hub.browserstack.com/wd/hub"),cap);
 		driver.get("https://rahulshettyacademy.com/");
+		driver.get("https://flipkart.com/");
 		
 	}
 
